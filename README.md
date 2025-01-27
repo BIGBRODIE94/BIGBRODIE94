@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **BIGBRODIE94/BIGBRODIE94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything in AWS Services
 - 📫 How to reach me: bigbrodie94@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love travelling.
