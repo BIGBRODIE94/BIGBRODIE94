@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Serverless Chat Application Project using Python
-- 🌱 I’m currently learning AWS Services in IaC Deployment
+- 🔭 I’m currently working on a Serverless Chat Application Project using Python
+- 🌱 I’m an AWS / Azure Expert in DevOps and CICD Deployment
 - 👯 I’m looking to collaborate on a challenging project with Python.
-- 🤔 I’m looking for help with finding a new job as a Cloud Engineer / DevOps Engineer
-- 💬 Ask me about anything in AWS Services
+- 🤔 I’m looking for help with finding a new job as a Sr. Cloud Engineer / Sr. DevOps Engineer
+- 💬 Ask me about anything in AWS / Azure Services
 - 📫 How to reach me: bigbrodie94@gmail.com
 - 😄 Pronouns: UH-f-f-aa-n 
-- ⚡ Fun fact: I love trying new food and travel the world.
+- ⚡ Fun fact: I love trying new food and traveling the world.
 
 <img src="https://raw.githubusercontent.com/bigbrodie94/bigbrodie94/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 <div align="justify">
