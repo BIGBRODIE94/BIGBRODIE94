@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Affan Chowdhury and I am an Cloud Engineer, I learn new things about programming and Cloud Comnputing, I have been Python Programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/bigbrodie94">bigbrodie94</a> that shares everything I learn about programming.
+Welcome to my GitHub Page. I am Affan Chowdhury, a Senior Cloud Engineer specializing in AWS and Azure. I am passionate about learning new things in programming and Cloud Computing. I have been programming in Python for over 10 years and have worked with many languages and technologies. I also run an Instagram page <a href="https://www.instagram.com/bigbrodie94">bigbrodie94</a> where I share everything I learn about programming and cloud engineering.
 
 </p>
 
